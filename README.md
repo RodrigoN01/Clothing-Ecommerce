@@ -1,4 +1,4 @@
-## Clothing eCommerce
+## Clothing E-Commerce
 
 ### Technologies used:
 
